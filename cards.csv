@@ -1,0 +1,110 @@
+name,cardId,dbfId,cost,attack,health,race,img,text,mechanics,
+Alleycat,TB_BaconUps_093,60053,1,2,2,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_093.png,<b>Battlecry:</b> Summon a 2/2_Cat.,1,{Battlecry,}
+Damaged Golem,TB_BaconUps_006t,57408,1,4,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_006t.png,,0,{},
+Imp,TB_BaconUps_030t,58373,1,2,2,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_030t.png,,0,{},
+Jo-E Bot,TB_BaconUps_002t,57337,1,2,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_002t.png,,0,{},
+Mecharoo,TB_BaconUps_002,57336,1,2,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_002.png,<b>Deathrattle:</b> Summon a 2/2 Jo-E Bot.,1,{Deathrattle,}
+Microbot,TB_BaconUps_032t,58377,1,2,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_032t.png,,0,{},
+Murloc Scout,TB_BaconUps_003t,57339,1,2,2,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_003t.png,,0,{},
+Murloc Tidecaller,TB_BaconUps_011,58138,1,2,4,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_011.png,Whenever you summon a Murloc, gain +2 Attack.,0,{},
+Pogo-Hopper,BGS_028,60122,1,1,1,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_028.png,[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.,1,{Battlecry,}
+Pogo-Hopper,TB_BaconUps_077,59664,1,2,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_077.png,[x]<b>Battlecry:</b> Gain +4/+4 for\neach other Pogo-Hopper\nyou played this game.,1,{Battlecry,}
+Primalfin,TB_BaconUps_052t,58414,1,2,2,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_052t.png,,0,{},
+Rat,TB_BaconUps_027t,58368,1,2,2,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_027t.png,,0,{},
+Selfless Hero,TB_BaconUps_014,58143,1,4,2,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_014.png,<b>Deathrattle:</b> Give 2_random friendly minions <b>Divine Shield</b>.,2,{Divine Shield,Deathrattle,}
+Shifter Zerus,TB_BaconUps_095,60233,1,2,2,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_095.png,Each turn this is in your hand, transform it into a random minion.,0,{},
+Shifter Zerus,BGS_029,57742,1,1,1,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_029.png,Each turn this is in your hand, transform it into a random minion.,0,{},
+Spider,TB_BaconUps_026t,58366,1,2,2,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_026t.png,,0,{},
+Tabbycat,TB_BaconUps_093t,60054,1,2,2,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_093t.png,,0,{},
+Voidwalker,TB_BaconUps_059t,57299,1,2,6,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_059t.png,<b>Taunt</b>,1,{Taunt,}
+Wrath Weaver,TB_BaconUps_079,59679,1,2,2,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_079.png,After you play a Demon, deal 1 damage to your hero and gain +4/+4.,0,{},
+Wrath Weaver,BGS_004,59670,1,1,1,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_004.png,After you play a Demon, deal 1 damage to your hero and gain +2/+2.,0,{},
+Amalgam,TB_BaconShop_HP_033t,59202,2,1,1,All,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconShop_HP_033t.png,[x]<i>This is an Elemental, Mech,\nDemon, Murloc, Dragon,\nBeast, Pirate and Totem.</i>,0,{},
+Big Bad Wolf,TB_BaconUps_004t,57341,2,6,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_004t.png,,0,{},
+Dire Wolf Alpha,TB_BaconUps_088,60025,2,4,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_088.png,Adjacent minions have +2_Attack.,2,{AdjacentBuff,Aura,}
+Guard Bot,TB_BaconUps_041t,58393,2,4,6,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_041t.png,<b>Taunt</b>,1,{Taunt,}
+Hyena,TB_BaconUps_049t,58410,2,4,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_049t.png,,0,{},
+Khadgar,TB_BaconUps_034,58380,2,4,4,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_034.png,Your cards that summon minions summon three times as many.,0,{},
+Kindly Grandmother,TB_BaconUps_004,57340,2,2,2,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_004.png,<b>Deathrattle:</b> Summon a 6/4 Big Bad Wolf.,1,{Deathrattle,}
+Micro Machine,BGS_027,60055,2,1,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_027.png,At the start of each turn, gain +1 Attack.,0,{},
+Micro Machine,TB_BaconUps_094,60056,2,2,4,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_094.png,At the start of each turn, gain +2 Attack.,0,{},
+Murloc Tidehunter,TB_BaconUps_003,57338,2,4,2,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_003.png,<b>Battlecry:</b> Summon a 2/2_Murloc Scout.,1,{Battlecry,}
+Rockpool Hunter,TB_BaconUps_061,59485,2,4,6,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_061.png,<b>Battlecry:</b> Give a friendly Murloc +2/+2.,1,{Battlecry,}
+Scavenging Hyena,TB_BaconUps_043,58395,2,4,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_043.png,Whenever a friendly Beast dies, gain +4/+2.,0,{},
+Soul Juggler,TB_BaconUps_075,59661,2,6,6,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_075.png,Whenever a friendly Demon dies, deal 6 damage to a [x]random enemy minion.,0,{},
+Vault Safe,TB_BaconUps_040t,58391,2,,10,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_040t.png,<b>Taunt</b>,1,{Taunt,}
+Brann Bronzebeard,TB_BaconUps_045,58400,3,4,8,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_045.png,Your <b>Battlecries</b> trigger three times.,2,{Battlecry,Aura,}
+Coldlight Seer,TB_BaconUps_064,59491,3,4,6,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_064.png,<b>Battlecry:</b> Give your other Murlocs +4 Health.,1,{Battlecry,}
+Harvest Golem,TB_BaconUps_006,57401,3,4,6,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_006.png,<b>Deathrattle:</b> Summon a 4/2 Damaged Golem.,1,{Deathrattle,}
+Imp Gang Boss,TB_BaconUps_030,58372,3,4,8,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_030.png,Whenever this minion takes damage, summon a 2/2 Imp.,0,{},
+Iron Sensei,TB_BaconUps_044,58397,3,4,4,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_044.png,At the end of your turn, give another friendly Mech +4/+4.,0,{},
+Kaboom Bot,TB_BaconUps_028,58369,3,4,4,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_028.png,<b>Deathrattle:</b> Deal 4_damage to a random enemy minion twice.,1,{Deathrattle,}
+Metaltooth Leaper,TB_BaconUps_066,59495,3,6,6,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_066.png,<b>Battlecry:</b> Give your other Mechs +4 Attack.,1,{Battlecry,}
+Mounted Raptor,BGS_025,60050,3,3,2,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_025.png,<b>Deathrattle:</b> Summon a random 1-Cost minion.,1,{Deathrattle,}
+Mounted Raptor,TB_BaconUps_019,58150,3,6,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_019.png,<b>Deathrattle:</b> Summon two random 1-Cost minions.,1,{Deathrattle,}
+Murloc Warleader,TB_BaconUps_008,57403,3,6,6,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_008.png,Your other Murlocs have +4 Attack.,1,{Aura,}
+Nathrezim Overseer,BGS_001,59186,3,2,4,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_001.png,<b>Battlecry:</b> Give a friendly Demon +2/+2.,1,{Battlecry,}
+Nathrezim Overseer,TB_BaconUps_062,59487,3,4,8,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_062.png,<b>Battlecry:</b> Give a friendly Demon +4/+4.,1,{Battlecry,}
+Pack Leader,BGS_017,59940,3,3,3,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_017.png,Whenever you summon a Beast, give it +3 Attack.,0,{},
+Pack Leader,TB_BaconUps_086,59969,3,6,6,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_086.png,Whenever you summon a Beast, give it +6 Attack.,0,{},
+Primalfin Lookout,TB_BaconUps_089,60027,3,6,4,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_089.png,<b>Battlecry:</b> If you control another Murloc, <b>Discover</b> two_Murlocs.,2,{Discover,Battlecry,}
+Primalfin Lookout,BGS_020,60028,3,3,2,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_020.png,<b>Battlecry:</b> If you control another Murloc, <b>Discover</b> a_Murloc.,2,{Discover,Battlecry,}
+Rat Pack,TB_BaconUps_027,58367,3,4,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_027.png,[x]<b>Deathrattle:</b> Summon a\nnumber of 2/2 Rats equal\n_to this minion's Attack.,1,{Deathrattle,}
+Soul Juggler,BGS_002,59660,3,3,3,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_002.png,Whenever a friendly Demon dies, deal 3 damage to a [x]random enemy minion.,0,{},
+Spawn of N'Zoth,TB_BaconUps_025,58168,3,4,4,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_025.png,<b>Deathrattle:</b> Give your minions +2/+2.,1,{Deathrattle,}
+Zoobot,TB_BaconUps_063,59489,3,6,6,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_063.png,<b>Battlecry:</b> Give a random friendly Beast, Dragon, and Murloc +2/+2.,1,{Battlecry,}
+Annoy-o-Module,TB_BaconUps_099,60327,4,4,8,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_099.png,<b>Magnetic</b>\n<b>Divine Shield</b>\n<b>Taunt</b>,3,{Magnetic,Divine Shield,Taunt,}
+Baron Rivendare,TB_BaconUps_055,58421,4,2,14,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_055.png,Your minions trigger their <b>Deathrattles</b> three times.,2,{Deathrattle,Aura,}
+Crowd Favorite,TB_BaconUps_037,58383,4,8,8,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_037.png,Whenever you play a card with <b>Battlecry</b>, gain +2/+2.,1,{Battlecry,}
+Crystalweaver,TB_BaconUps_070,59504,4,10,8,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_070.png,<b>Battlecry:</b> Give your Demons +2/+2.,1,{Battlecry,}
+Defender of Argus,TB_BaconUps_009,57404,4,4,6,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_009.png,<b>Battlecry:</b> Give adjacent minions +2/+2 and <b>Taunt</b>.,2,{Taunt,Battlecry,}
+Gentle Megasaur,BGS_031,56465,4,5,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_031.png,<b>Battlecry:</b> <b>Adapt</b> your_Murlocs.,2,{Adapt,Battlecry,}
+Gentle Megasaur,TB_BaconUps_084,59828,4,10,8,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_084.png,<b>Battlecry:</b> <b>Adapt</b> your_Murlocs twice.,2,{Adapt,Battlecry,}
+Houndmaster,TB_BaconUps_068,59499,4,8,6,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_068.png,<b>Battlecry:</b> Give a friendly Beast +4/+4 and <b>Taunt</b>.,2,{Taunt,Battlecry,}
+Infested Wolf,TB_BaconUps_026,58365,4,6,6,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_026.png,<b>Deathrattle:</b> Summon two 2/2 Spiders.,1,{Deathrattle,}
+Old Murk-Eye,TB_BaconUps_036,58382,4,4,8,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_036.png,<b>Charge</b>. Has +2 Attack for each other Murloc on the battlefield.,1,{Charge,}
+Piloted Shredder,BGS_023,60048,4,4,3,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_023.png,<b>Deathrattle:</b> Summon a random 2-Cost minion.,1,{Deathrattle,}
+Piloted Shredder,TB_BaconUps_035,58381,4,8,6,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_035.png,<b>Deathrattle:</b> Summon two random 2-Cost minions.,1,{Deathrattle,}
+Replicating Menace,TB_BaconUps_032,58376,4,6,2,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_032.png,<b>Magnetic</b>\n<b>Deathrattle:</b> Summon three 2/2 Microbots.,2,{Magnetic,Deathrattle,}
+Screwjank Clunker,TB_BaconUps_069,59501,4,4,10,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_069.png,<b>Battlecry:</b> Give a friendly Mech +4/+4.,1,{Battlecry,}
+Strongshell Scavenger,TB_BaconUps_072,59508,4,4,6,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_072.png,<b>Battlecry:</b> Give your <b>Taunt</b> minions +4/+4.,2,{Taunt,Battlecry,}
+Tortollan Shellraiser,TB_BaconUps_031,58374,4,4,12,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_031.png,[x]<b>Taunt</b>\n<b>Deathrattle:</b> Give a random\n_friendly minion +2/+2.,2,{Deathrattle,Taunt,}
+Bolvar, Fireblood,TB_BaconUps_047,58405,5,2,14,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_047.png,<b>Divine Shield</b>\nAfter a friendly minion loses_<b>Divine Shield</b>, gain +4 Attack.,1,{Divine Shield,}
+Festeroot Hulk,TB_BaconUps_033,58378,5,4,14,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_033.png,After a friendly minion attacks, gain +2 Attack.,0,{},
+Floating Watcher,TB_BaconUps_101,60403,5,8,8,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_101.png,Whenever your hero takes damage on your turn, gain +4/+4.,0,{},
+Ironhide Runt,TB_BaconUps_051t,60232,5,10,10,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_051t.png,,0,{},
+Junkbot,TB_BaconUps_046,58402,5,2,10,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_046.png,Whenever a friendly Mech dies, gain +4/+4.,0,{},
+Mechano-Egg,TB_BaconUps_039,58387,5,,10,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_039.png,<b>Deathrattle:</b> Summon a 16/16 Robosaur.,1,{Deathrattle,}
+Menagerie Magician,TB_BaconUps_073,59510,5,8,8,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_073.png,<b>Battlecry:</b> Give a random friendly Beast, Dragon, and Murloc +4/+4.,1,{Battlecry,}
+Phalanx Commander,TB_BaconUps_038,58385,5,8,10,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_038.png,Your <b>Taunt</b> minions\nhave +4 Attack.,1,{Aura,}
+Virmen Sensei,TB_BaconUps_074,59512,5,8,10,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_074.png,<b>Battlecry:</b> Give a friendly Beast +4/+4.,1,{Battlecry,}
+Ghastcoiler,BGS_008,59687,6,7,7,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_008.png,<b>Deathrattle:</b> Summon\n2 random <b>Deathrattle</b> minions.,1,{Deathrattle,}
+Ghastcoiler,TB_BaconUps_057,58424,6,14,14,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_057.png,<b>Deathrattle:</b> Summon\n4 random <b>Deathrattle</b> minions.,1,{Deathrattle,}
+King Bagurgle,BGS_030,60247,6,6,3,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_030.png,<b>Battlecry and Deathrattle:</b> Give your other Murlocs +2/+2.,2,{Battlecry,Deathrattle,}
+King Bagurgle,TB_BaconUps_100,60396,6,12,6,Murloc,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_100.png,<b>Battlecry and Deathrattle:</b> Give your other Murlocs +4/+4.,2,{Battlecry,Deathrattle,}
+Lightfang Enforcer,BGS_009,59707,6,2,2,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_009.png,At the end of your turn,\ngive a random friendly Mech, Murloc, Demon, and Beast +2/+1.,0,{},
+Lightfang Enforcer,TB_BaconUps_082,59711,6,4,4,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_082.png,At the end of your turn,\ngive a random friendly Mech, Murloc, Demon, and Beast +4/+2.,0,{},
+Piloted Sky Golem,BGS_024,60049,6,6,4,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_024.png,<b>Deathrattle:</b> Summon a random 4-Cost minion.,1,{Deathrattle,}
+Piloted Sky Golem,TB_BaconUps_050,58411,6,12,8,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_050.png,<b>Deathrattle:</b> Summon two random 4-Cost minions.,1,{Deathrattle,}
+Safeguard,TB_BaconUps_040,58390,6,8,10,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_040.png,[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon a 0/10\nVault Safe with <b>Taunt</b>.,2,{Deathrattle,Taunt,}
+Savannah Highmane,TB_BaconUps_049,58409,6,12,10,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_049.png,<b>Deathrattle:</b> Summon two 4/4 Hyenas.,1,{Deathrattle,}
+Security Rover,TB_BaconUps_041,58392,6,4,12,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_041.png,[x]Whenever this minion\ntakes damage, summon a\n4/6 Mech with <b>Taunt</b>.,1,{Taunt,}
+The Beast,TB_BaconUps_042,58394,6,18,14,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_042.png,<b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent.,1,{Deathrattle,}
+Ironhide Direhorn,TB_BaconUps_051,58412,7,14,14,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_051.png,<b>Overkill:</b> Summon a 10/10_Ironhide Runt.,1,{Overkill,}
+Sated Threshadon,TB_BaconUps_052,58413,7,10,14,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_052.png,<b>Deathrattle:</b> Summon three 2/2 Murlocs.,1,{Deathrattle,}
+Siegebreaker,TB_BaconUps_053,58418,7,10,16,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_053.png,<b>Taunt</b>\nYour other Demons have +2 Attack.,2,{Taunt,Aura,}
+Annihilan Battlemaster,BGS_010,59714,8,3,1,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_010.png,<b>Battlecry:</b> Gain +1 Health for each damage_your hero has taken.,1,{Battlecry,}
+Annihilan Battlemaster,TB_BaconUps_083,59716,8,6,2,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_083.png,<b>Battlecry:</b> Gain +2 Health for each damage_your hero has taken.,1,{Battlecry,}
+Goldrinn, the Great Wolf,BGS_018,59955,8,4,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_018.png,<b>Deathrattle:</b> Give your Beasts +4/+4.,1,{Deathrattle,}
+Goldrinn, the Great Wolf,TB_BaconUps_085,59956,8,8,8,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_085.png,<b>Deathrattle:</b> Give your Beasts +8/+8.,1,{Deathrattle,}
+Mama Bear,BGS_021,60036,8,4,4,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_021.png,Whenever you summon a Beast, give it +4/+4.,0,{},
+Mama Bear,TB_BaconUps_090,60038,8,8,8,Beast,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_090.png,Whenever you summon a Beast, give it +8/+8.,0,{},
+Robosaur,TB_BaconUps_039t,58389,8,16,16,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_039t.png,,0,{},
+Sneed's Old Shredder,BGS_006,59682,8,5,7,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_006.png,<b>Deathrattle:</b> Summon a random <b>Legendary</b> minion.,1,{Deathrattle,}
+Sneed's Old Shredder,TB_BaconUps_080,59683,8,10,14,Mech,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_080.png,<b>Deathrattle:</b> Summon 2 random <b>Legendary</b> minions.,1,{Deathrattle,}
+The Boogeymonster,TB_BaconUps_058,58425,8,12,14,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_058.png,Whenever this attacks and kills a minion, gain +4/+4.,0,{},
+Zapp Slywick,BGS_022,60040,8,7,10,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_022.png,[x]<b>Windfury</b>\nThis minion always attacks\nthe enemy minion with\nthe lowest Attack.,1,{Windfury,}
+Kangor's Apprentice,BGS_012,59935,9,3,6,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/BGS_012.png,<b>Deathrattle</b>: Summon the first 2 friendly Mechs that died this combat.,1,{Deathrattle,}
+Kangor's Apprentice,TB_BaconUps_087,59976,9,6,12,,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_087.png,<b>Deathrattle</b>: Summon the first 4 friendly Mechs that died this combat.,1,{Deathrattle,}
+Mal'Ganis,TB_BaconUps_060,58428,9,18,14,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_060.png,Your other Demons have +4/+4.\nYour hero is <b>Immune</b>.,1,{Aura,}
+Voidlord,TB_BaconUps_059,58427,9,6,18,Demon,http://wow.zamimg.com/images/hearthstone/cards/enus/original/TB_BaconUps_059.png,[x]<b>Taunt</b>\n <b>Deathrattle:</b> Summon three\n2/6 Demons with <b>Taunt</b>.,2,{Taunt,Deathrattle,}
